@@ -2,7 +2,7 @@
 Loading Screen for FiveM
 
 Discord: https://discord.gg/tanPeMd
-YouTube Demonstration: Coming soon
+YouTube Demonstration: https://youtu.be/qM5V0sksU_U
 
 
 
