@@ -1,7 +1,7 @@
 # IL-Smooth-Visual
 Loading Screen for FiveM
 
-Discord: https://discord.gg/tanPeMd
+Discord: https://discord.gg/EDRbwTEpDu
 YouTube Demonstration: https://youtu.be/qM5V0sksU_U
 
 
